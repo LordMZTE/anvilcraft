@@ -1,0 +1,12 @@
+autoJump:false
+gamma:1.0
+guiScale:2
+chatOpacity:0.5
+key_invtweaks.key.sort:0
+soundCategory_music:0.0
+soundCategory_weather:0.1
+soundCategory_block:0.5
+soundCategory_hostile:0.5
+key_oreexcavation.key.excavate:33
+key_key.swapHands:0
+key_Change Caster Focus:0
