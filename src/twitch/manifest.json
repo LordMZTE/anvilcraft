@@ -11,9 +11,24 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Anvilcraft MZTE Fork",
-  "version": "3.0",
+  "version": "3.1",
   "author": "mpztilera, ACGaming, LordMZTE",
   "files": [
+    {
+      "projectID": 223735,
+      "fileID": 2676866,
+      "required": true
+    },
+    {
+      "projectID": 60092,
+      "fileID": 2672438,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2680892,
+      "required": true
+    },
     {
       "projectID": 246640,
       "fileID": 2704562,
